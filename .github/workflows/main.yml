@@ -43,3 +43,7 @@ jobs:
     steps:
       - name: Desplegar aplicación
         run: echo Despliegue exitoso 🎉"
+Run npmx install
+  npmx install
+  shell: /usr/bin/bash -e {0}
+/home/runner/work/_temp/dba4dc61-78e6-4e56-8c5f-cd6441989dab.sh: line 1: npmx: command not found
